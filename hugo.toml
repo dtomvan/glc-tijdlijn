@@ -5,6 +5,3 @@ theme = 'ananke'
 RelativeURLs = "true"
 
 DefaultContentLanguage = "nl"
-
-[params]
-custom_css = ["main.css"]
