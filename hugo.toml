@@ -1,0 +1,7 @@
+baseURL = 'localhost'
+languageCode = 'nl-nl'
+title = 'Griekse tijdlijn'
+theme = 'ananke'
+RelativeURLs = "true"
+
+DefaultContentLanguage = "nl"
