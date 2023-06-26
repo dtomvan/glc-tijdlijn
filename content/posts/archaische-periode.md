@@ -53,7 +53,7 @@ De beeldjes worden gemaakt naar Egyptisch voorbeeld, en ook levensgroot
 vervaardigd. Het stellen jongens en meiden voor, κουροι en κοραι, met de
 kenmerkende Archaïsche glimlach:
 
-![Archaïsche beeldjes](/archa.jpg)
+![Archaïsche beeldjes](../../archa.jpg)
 *Twee κουροι - Door Adam Carr - first uploaded as en:Image:Ac.kleobisandbiton.jpg, Publiek domein, https://commons.wikimedia.org/w/index.php?curid=783609*
 
 # Religie

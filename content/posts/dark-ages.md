@@ -44,5 +44,5 @@ trouw. Het heeft veel weg van een feodaal stelsel.
 Een andere ontwikkeling is dat later in 900 VC de geometrische pottenbakkunst
 wordt uitgevonden:
 
-![Een dipylonvaas](/dipylon.jpg)
+![Een dipylonvaas](../../dipylon.jpg)
 *Een geometrische dipylonvaas - Door Dipylon-schilder - inyucho Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=10042111*

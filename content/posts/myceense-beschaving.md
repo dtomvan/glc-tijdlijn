@@ -29,7 +29,7 @@ Dankzij Homeros weten we heel veel van de Griekse wereld. Zo schreef hij over de
 "beker van Nestor" in de Ilias. Deze zorgde er wel voor dat we meer weten over
 vroege pottenbakkunst uit de oudheid.
 
-![De Nestorbeker](/nestor.jpg "De Nestorbeker")
+![De Nestorbeker](../../nestor.jpg "De Nestorbeker")
 
 _De Nestorbeker - Door Roderich Kahn - Eigen werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=81551521_
 
@@ -60,7 +60,7 @@ De vroege Myceners hadden het er maar druk mee, ze:
 - Deden aan een hoop handel;
 - Maakten kunst zoals ψ-beeldjes:
 
-![PSI-beeldje](/psi.jpg)
+![PSI-beeldje](../../psi.jpg)
 *Een voorbeeld van een PSI-beeldje - Door Zde - Eigen werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95155694*
 
 ## Ondertussen op Kreta…
@@ -68,7 +68,7 @@ Men leefde op het eiland volgens de _Minoïsche beschaving_, onder koning Minos.
 Ze bouwden al rond 2000 voor Christus paleizen en ontwikkelden het linear A. Ook
 deden ze volop aan handel en kunst.
 
-![Een Minoïsche vaas](/kraken.jpg)
+![Een Minoïsche vaas](../../kraken.jpg)
 *Een Minoïsche vaas uit een Myceense begraafplaats - Door I, Sailko, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=4269225*
 
 Het einde van de Minoïsche beschaving was hoogstwaarschijnlijk veroorzaakt door
